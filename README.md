@@ -43,7 +43,8 @@ Ensure that the generated .htaccess file is placed in the directory where your w
 Contributions to this project are welcome. Please fork the repository and submit a pull request.
 
 ## License
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
+
+This project is open-sourced under the MIT License. For more details, see the [MIT License](https://opensource.org/licenses/MIT) documentation.
 
 ## Author
 Kai Froeb
