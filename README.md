@@ -1,6 +1,8 @@
 # bulk_webpage_renaming_tool
 
-This repository contains a Perl script that automates the process of renaming web files and generating Apache `.htaccess` Rewrite rules based on a list provided in a CSV file. It is designed to streamline the management of web resource naming on servers running Debian.
+This repository contains a Perl script that automates the process of renaming web files and generating Apache `.htaccess` Rewrite rules based on a list provided in a CSV file. It is designed to streamline the management of web resource naming on Linux servers as e.g. Debian or Ubuntu.
+
+For your convenience, this repository contains as well an optional python 3 script rename_files.py that does the same, in case you prefer to work with python.
 
 ## Features
 
